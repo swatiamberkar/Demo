@@ -1,0 +1,1 @@
+{"uuid":"eab258f5-a028-4724-b971-bab7376481b1","name":"com.uno.test.sd.SD_AssetDetailsTest.writeResult","description":"","start":1545291936091,"stop":1545291953045,"children":["96d0af40-4380-4b18-87f4-97cfe08a2ba8"],"afters":[{"name":"writeResult","status":"passed","stage":"finished","description":"","start":1545291936092,"stop":1545291953045}]}
